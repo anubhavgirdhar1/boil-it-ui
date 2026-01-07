@@ -4,9 +4,6 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 
-.env
-.env.*
-
 logs/
 *.log
 npm-debug.log*
